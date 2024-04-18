@@ -1,0 +1,6 @@
+compatibility_date = "2024-04-08"
+name = "placeholder-api"
+
+[vars]
+REDIS_URL = "https://apn1-ample-hawk-35145.upstash.io"
+REDIS_TOKEN = "AYlJASQgMDY2OTBlMDgtMWQ5OS00MmRjLWI0NTQtYTFjYmVhYTdhM2UzMzgxNTIxNDMwMmNjNDZjYjhlYTY5ZTU4MDJiNWUwZTg="

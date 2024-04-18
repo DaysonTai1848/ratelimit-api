@@ -3,15 +3,15 @@
 // export dynamically through wrangler, or we can potentially let users directly
 // add them as a sort of "plugin" system.
 
-import ENTRY from "C:\\Users\\Dayson\\Desktop\\programming\\ratelimit-api\\.wrangler\\tmp\\bundle-Qz3viz\\middleware-insertion-facade.js";
+import ENTRY from "C:\\Users\\Dayson\\Desktop\\programming\\ratelimit-api\\.wrangler\\tmp\\bundle-N7qWaP\\middleware-insertion-facade.js";
 import { __facade_invoke__, __facade_register__, Dispatcher } from "C:\\Users\\Dayson\\Desktop\\programming\\ratelimit-api\\node_modules\\wrangler\\templates\\middleware\\common.ts";
 import type {
 	WithMiddleware,
 	WorkerEntrypointConstructor,
-} from "C:\\Users\\Dayson\\Desktop\\programming\\ratelimit-api\\.wrangler\\tmp\\bundle-Qz3viz\\middleware-insertion-facade.js";
+} from "C:\\Users\\Dayson\\Desktop\\programming\\ratelimit-api\\.wrangler\\tmp\\bundle-N7qWaP\\middleware-insertion-facade.js";
 
 // Preserve all the exports from the worker
-export * from "C:\\Users\\Dayson\\Desktop\\programming\\ratelimit-api\\.wrangler\\tmp\\bundle-Qz3viz\\middleware-insertion-facade.js";
+export * from "C:\\Users\\Dayson\\Desktop\\programming\\ratelimit-api\\.wrangler\\tmp\\bundle-N7qWaP\\middleware-insertion-facade.js";
 
 class __Facade_ScheduledController__ implements ScheduledController {
 	readonly #noRetry: ScheduledController["noRetry"];
